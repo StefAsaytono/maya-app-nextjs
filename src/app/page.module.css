@@ -1,0 +1,15 @@
+.container {
+  position: relative;
+  margin: 0 auto;
+  width: var(--width);
+  height: 100%;
+  background-color: var(--light);
+  overflow: hidden;
+}
+.containerDialog {
+  margin: 0 auto;
+  width: var(--width);
+}
+.main {
+  padding: var(--containerPadding);
+}
